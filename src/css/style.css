@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #222;
+  background: #000;
 }
 
 .box {
@@ -28,27 +28,27 @@ body {
 }
 
 .box .b1 {
-  border-color: #4A69BD;
+  border-color: #FFF;
   width: 120px;
   height: 120px;
 }
 
 .box .b2 {
-  border-color: #F6B93B;
+  border-color: #F87B4B;
   width: 100px;
   height: 100px;
   animation-delay: 0.2s;
 }
 
 .box .b3 {
-  border-color: #2ECC71;
+  border-color: #FFF;
   width: 80px;
   height: 80px;
   animation-delay: 0.4s;
 }
 
 .box .b4 {
-  border-color: #34495E;
+  border-color: #FF686D;
   width: 60px;
   height: 60px;
   animation-delay: 0.6s;
