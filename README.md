@@ -26,6 +26,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Conheça o Caboré Hackerspace e participe ativamente da nossa comunidade.
 
 [Telegram Group](http://t.me/caborehs) <br />
-[Twitter](http://t.me/caborehs) <br />
-[Instagram](http://t.me/caborehs)<br />
+[Twitter](http://twitter.com/caborehs) <br />
+[Instagram](http://instagram.com/caborehs)<br />
 [Github](http://t.me/caborehs)
