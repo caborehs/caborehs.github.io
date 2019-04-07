@@ -1,13 +1,13 @@
 # Caboré Hackerspace
 
-<p>Temos como prioridade estratégica a manutenção de um hackerspace em Caraúbas/RN.</p>
+Temos como prioridade estratégica a manutenção de um hackerspace em Caraúbas/RN.
 
 ## Website
 
 ### Contribua
 
-<p>Leia o [CONTRIBUTING.md](https://github.com/caborehs/caborehs.github.io/blob/master/CONTRIBUTING.md) para
-detalhes do nosso código de conduta, e saber como funcionar o processo para submeter PRs para nós.</p>
+Leia o [CONTRIBUTING.md](https://github.com/caborehs/caborehs.github.io/blob/master/CONTRIBUTING.md) para
+detalhes do nosso código de conduta, e saber como funcionar o processo para submeter PRs para nós.
 
 ### Autores
 
@@ -15,11 +15,11 @@ detalhes do nosso código de conduta, e saber como funcionar o processo para sub
 * **Tiago Ticiano** - *Infra* - [tiagoumbu](#)
 * **Brito Filho** - *Textos* - [britofilho](#)
 
-<p>Veja a lista completa de [contributors](https://github.com/caborehs/caborehs.github.io/contributors) que participaram desse projeto.</p>
+Veja a lista completa de [contributors](https://github.com/caborehs/caborehs.github.io/contributors) que participaram desse projeto.
 
 ### License
 
-<p>This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ### Participe
 
