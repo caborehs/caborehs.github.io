@@ -1,13 +1,13 @@
 # Caboré Hackerspace
 
-Temos como prioridade estratégica a manutenção de um hackerspace em Caraúbas/RN.
+<p>Temos como prioridade estratégica a manutenção de um hackerspace em Caraúbas/RN.</p>
 
 ## Website
 
 ### Contribua
 
-Leia o [CONTRIBUTING.md](https://github.com/caborehs/caborehs.github.io/blob/master/CONTRIBUTING.md) para
-detalhes do nosso código de conduta, e saber como funcionar o processo para submeter PRs para nós.
+<p>Leia o [CONTRIBUTING.md](https://github.com/caborehs/caborehs.github.io/blob/master/CONTRIBUTING.md) para
+detalhes do nosso código de conduta, e saber como funcionar o processo para submeter PRs para nós.</p>
 
 ### Autores
 
@@ -15,17 +15,17 @@ detalhes do nosso código de conduta, e saber como funcionar o processo para sub
 * **Tiago Ticiano** - *Infra* - [tiagoumbu](#)
 * **Brito Filho** - *Textos* - [britofilho](#)
 
-Veja a lista completa de [contributors](https://github.com/caborehs/caborehs.github.io/contributors) que participaram desse projeto.
+<p>Veja a lista completa de [contributors](https://github.com/caborehs/caborehs.github.io/contributors) que participaram desse projeto.</p>
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+<p>This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ### Participe
 
 Conheça o Caboré Hackerspace e participe ativamente da nossa comunidade.
 
-[Telegram Group](http://t.me/caborehs)
-[Twitter](http://t.me/caborehs)
-[Instagram](http://t.me/caborehs)
+[Telegram Group](http://t.me/caborehs) <br />
+[Twitter](http://t.me/caborehs) <br />
+[Instagram](http://t.me/caborehs)<br />
 [Github](http://t.me/caborehs)
