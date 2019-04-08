@@ -4,10 +4,25 @@ Temos como prioridade estratégica a manutenção de um hackerspace em Caraúbas
 
 ## Website
 
+### Instalação
+1. Dê Fork o repositório
+
+2. Clone para sua maquina:
+`git clone https://github.com/caborehs/caborehs.github.io`
+
+3. Entre na pasta source e dê um `npm install`
+
+4. Faça as edições necessárias.
+
+5. rode o comando `npm run build`
+
+5. Copie o conteúdo da pasta build para o diretório `root`.
+
+6. Para dar PR siga os passos a seguir.
+
 ### Contribua
 
-Leia o [CONTRIBUTING.md](https://github.com/caborehs/caborehs.github.io/blob/master/CONTRIBUTING.md) para
-detalhes do nosso código de conduta, e saber como funcionar o processo para submeter PRs para nós.
+Leia o [CONTRIBUTING.md](https://github.com/caborehs/caborehs.github.io/blob/master/CONTRIBUTING.md) para  saber como funcionar o processo para submeter PRs para nosso site.
 
 ### Autores
 
