@@ -5,6 +5,10 @@ import Routes from './routes';
 import GlobalStyle from './GlobalStyle';
 
 class App extends Component {
+  componentDidMount() {
+    document.title = 'Caboré Hackerspace';
+  }
+
   render() {
     return (
       <div>
