@@ -1,12 +1,8 @@
 # Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
+1. Após as alterações, faça commit para seu repo
+2. Em seguida dê um: `git push origin master`
+3. Siga para o [repositório](https://github.com/caborehs/caborehs.github.io)
+4. Submeta seu Pull Request com comentarios da suas alterações.
 
-*Remember that we have a pre-push hook with steps that analyzes and prevents mistakes.*
-
-**After your pull request is merged**, you can safely delete your branch.
-
-### [<-- Back](https://github.com/caborehs/caborehs.github.io)
+### [<-- Voltar](https://github.com/caborehs/caborehs.github.io)
