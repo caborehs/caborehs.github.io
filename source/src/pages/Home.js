@@ -13,7 +13,7 @@ const Home = props => (
       <Container>
         <Text align="center" width="700">
           <P>O Caboré Hackerspace (CHS) tem como objetivo viabilizar um espaço comunitário colaborativo e aberto para que entusiastas de tecnologia possam desenvolver atividades e projetos nas mais diversas áreas.</P>
-          <Button size="large" as="a" href="https://apoia.se/caborehs">Contribua</Button>
+          <Button size="large" as="a" href="https://picpay.me/caborehs">Contribua</Button>
         </Text>
         <SocialNetworks />
       </Container>
