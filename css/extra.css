@@ -1,0 +1,15 @@
+.logo{
+    width: 15em;
+    height: 15em;
+    margin: 0 auto;
+    background: url(../assets/img/logo.png) no-repeat;
+    background-size: 100%;
+    background-position: center;
+    margin-bottom: 20px;
+}
+
+.nb-img {
+    height:2.5em;
+    display: block;
+    margin-top: 2px;
+}
